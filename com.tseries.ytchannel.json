@@ -1,0 +1,154 @@
+{
+  "apps": [
+    {
+      "status": true,
+      "redirect_url": "",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_dark_mode_as_default_theme": false
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": false,
+      "main_ad": "admob",
+      "backup_ad": "alien",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Videos",
+      "image": ""
+    
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=l9HlWVymqwk"
+    },
+    {
+      "id": 2,
+      "category": "Videos",
+      "title": "",
+      "image": "https://i.ytimg.com/vi/_OS2FSIpQ2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd0E13MFJu9YGuf-VCSG428Eev_w",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=SiZ5sJKnegA"
+    },
+    {
+      "id": 3,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=RKZJtoFoaQg"
+    },
+    {
+      "id": 4,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=gDTP-OKrR_0"
+    },
+    {
+      "id": 5,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=RaVhSLVg9Bw"
+    },
+    {
+      "id": 6,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=0uXfgwrDu_s"
+    },
+    {
+      "id": 7,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=bygX3e7apvM"
+    },
+    {
+      "id": 8,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=eApR8lKENkU"
+    },
+    {
+      "id": 9,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=tBI4Zra5yIY"
+    },
+    {
+      "id": 10,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=NG0ei6rihQ8"
+    },
+    {
+      "id": 11,
+      "category": "Videos",
+      "title": "",
+      "image": "",
+      "content": "",
+      "video": "https://www.youtube.com/watch?v=sNEqeggGFEE"
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+
+    }
+  ]
+}
